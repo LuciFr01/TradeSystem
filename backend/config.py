@@ -1,0 +1,5 @@
+BASE_URL = "https://apiconnect.angelbroking.com"
+LOGIN_ENDPOINT = "/rest/auth/angelbroking/user/v1/loginByPassword"
+PROFILE_ENDPOINT = "/rest/secure/angelbroking/user/v1/getProfile"
+ORDER_ENDPOINT = "/rest/secure/angelbroking/order/v1/placeOrder"
+MARKET_DATA_ENDPOINT = "/rest/secure/angelbroking/market/v1/quote"
